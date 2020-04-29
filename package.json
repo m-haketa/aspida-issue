@@ -1,0 +1,20 @@
+{
+  "name": "aspida-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "openapi2aspida": "openapi2aspida --build"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^13.13.4",
+    "@types/node-fetch": "^2.5.7",
+    "openapi2aspida": "^0.5.1"
+  },
+  "dependencies": {
+    "@aspida/node-fetch": "^0.2.1",
+    "node-fetch": "^2.6.0"
+  }
+}
