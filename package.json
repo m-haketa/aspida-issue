@@ -15,6 +15,6 @@
   },
   "dependencies": {
     "@aspida/node-fetch": "^0.2.1",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
